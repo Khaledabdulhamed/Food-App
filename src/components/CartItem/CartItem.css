@@ -62,4 +62,6 @@
 
 .cart-item--2 button:hover,
 .cart-item--2 button:active {
-  back
+  background-color: #8a2b06;
+  color: white;
+}
